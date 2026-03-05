@@ -1,0 +1,21 @@
+{
+  "appId": "com.splitx.app",
+  "appName": "SplitX",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1a1a2e",
+      "showSpinner": false
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_notification",
+      "iconColor": "#D4A843"
+    }
+  }
+}

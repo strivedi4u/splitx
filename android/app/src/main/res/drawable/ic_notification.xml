@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- SplitX Logo: Two crossing arrow bars forming the X mark -->
+
+    <!-- Bar 1: Top-left to bottom-right diagonal with arrow tips -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 4.8,0.4 L 7.6,0.4 L 23.6,16.4 L 23.6,19.2 L 19.2,23.6 L 16.4,23.6 L 0.4,7.6 L 0.4,4.8 Z"/>
+
+    <!-- Bar 2: Top-right to bottom-left diagonal with arrow tips -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 16.4,0.4 L 19.2,0.4 L 23.6,4.8 L 23.6,7.6 L 7.6,23.6 L 4.8,23.6 L 0.4,19.2 L 0.4,16.4 Z"/>
+
+</vector>
