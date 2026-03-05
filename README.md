@@ -32,12 +32,12 @@ A **production-ready**, full-stack group expense splitting application with a pr
 
 ---
 
-## 🎬 Preview
+<!-- ## 🎬 Preview -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- Replace with actual screenshots or GIF of your app -->
-<table>
+<!-- <table>
 <tr>
 <td align="center"><b>🏠 Dashboard</b></td>
 <td align="center"><b>👥 Group View</b></td>
@@ -48,11 +48,11 @@ A **production-ready**, full-stack group expense splitting application with a pr
 <td><img src="docs/screenshots/group-detail.png" alt="Group Detail" width="250"/></td>
 <td><img src="docs/screenshots/add-expense.png" alt="Add Expense" width="250"/></td>
 </tr>
-</table>
+</table> -->
 
-> 📸 *Add your screenshots to `docs/screenshots/` to showcase your app!*
+<!-- > 📸 *Add your screenshots to `docs/screenshots/` to showcase your app!* -->
 
-</div>
+<!-- </div> -->
 
 ---
 
