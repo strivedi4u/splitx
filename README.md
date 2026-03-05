@@ -2,17 +2,74 @@
 
 # 💰 SplitX — Smart Expense Sharing
 
-**Split expenses effortlessly with friends, roommates, and travel buddies.**
+### Split expenses effortlessly with friends, roommates, and travel buddies.
 
-A full-stack group expense splitting application with a premium dark-gold UI, real-time balance tracking, and native Android support.
+A **production-ready**, full-stack group expense splitting application with a premium dark-gold UI, real-time balance tracking, and native Android support.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Capacitor](https://img.shields.io/badge/Capacitor-8-119EFF?logo=capacitor&logoColor=white)](https://capacitorjs.com)
+[![GitHub Stars](https://img.shields.io/github/stars/strivedi4u/splitx?style=for-the-badge&logo=github&color=gold)](https://github.com/strivedi4u/splitx/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/strivedi4u/splitx?style=for-the-badge&logo=github&color=silver)](https://github.com/strivedi4u/splitx/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/strivedi4u/splitx?style=for-the-badge&logo=github&color=red)](https://github.com/strivedi4u/splitx/issues)
+[![MIT License](https://img.shields.io/github/license/strivedi4u/splitx?style=for-the-badge&color=blue)](LICENSE)
+
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Capacitor](https://img.shields.io/badge/Capacitor-8-119EFF?style=flat-square&logo=capacitor&logoColor=white)](https://capacitorjs.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![Last Commit](https://img.shields.io/github/last-commit/strivedi4u/splitx?style=flat-square&color=orange)](https://github.com/strivedi4u/splitx/commits/master)
+
+<br/>
+
+**[🌐 Live Demo](https://splitx.azurewebsites.net)** · **[📱 Download APK](https://github.com/strivedi4u/splitx/releases)** · **[🐛 Report Bug](https://github.com/strivedi4u/splitx/issues/new?template=bug_report.md)** · **[✨ Request Feature](https://github.com/strivedi4u/splitx/issues/new?template=feature_request.md)**
+
+---
+
+> ⭐ **If you find SplitX useful, please consider giving it a star!** It helps others discover this project and motivates further development.
 
 </div>
+
+---
+
+## 🎬 Preview
+
+<div align="center">
+
+<!-- Replace with actual screenshots or GIF of your app -->
+<table>
+<tr>
+<td align="center"><b>🏠 Dashboard</b></td>
+<td align="center"><b>👥 Group View</b></td>
+<td align="center"><b>💸 Add Expense</b></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/dashboard.png" alt="Dashboard" width="250"/></td>
+<td><img src="docs/screenshots/group-detail.png" alt="Group Detail" width="250"/></td>
+<td><img src="docs/screenshots/add-expense.png" alt="Add Expense" width="250"/></td>
+</tr>
+</table>
+
+> 📸 *Add your screenshots to `docs/screenshots/` to showcase your app!*
+
+</div>
+
+---
+
+## 🤔 Why SplitX?
+
+| Feature | SplitX | Splitwise | Tricount |
+|---------|:------:|:---------:|:--------:|
+| 🆓 **Completely Free** | ✅ | ❌ (Premium) | ✅ |
+| 🔓 **Open Source** | ✅ | ❌ | ❌ |
+| 🏗️ **Self-Hostable** | ✅ | ❌ | ❌ |
+| 📱 **Native Android** | ✅ | ✅ | ✅ |
+| 🌙 **Premium Dark UI** | ✅ | ❌ | ❌ |
+| 📊 **Spending Analytics** | ✅ | ✅ (Paid) | ❌ |
+| 📷 **Receipt Uploads** | ✅ | ✅ (Paid) | ❌ |
+| 🔐 **JWT Auth** | ✅ | OAuth | OAuth |
+| 🗄️ **No Database Needed** | ✅ (JSON) | Cloud | Cloud |
+| 🚀 **One-Click Deploy** | ✅ | ❌ | ❌ |
 
 ---
 
@@ -538,11 +595,23 @@ Deploy the `dist/` folder to **Vercel**, **Netlify**, **Cloudflare Pages**, or a
 
 ## 🤝 Contributing
 
+We love contributions! SplitX is open source and we welcome PRs of all sizes.
+
+Please read our [**Contributing Guide**](CONTRIBUTING.md) and [**Code of Conduct**](CODE_OF_CONDUCT.md) before submitting.
+
 1. **Fork** the repository
 2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
 3. **Commit** your changes: `git commit -m 'Add amazing feature'`
 4. **Push** to the branch: `git push origin feature/amazing-feature`
 5. **Open** a Pull Request
+
+Looking for a good first issue? Check out issues tagged with [`good first issue`](https://github.com/strivedi4u/splitx/labels/good%20first%20issue).
+
+---
+
+## 🔒 Security
+
+Found a vulnerability? Please report it responsibly. See our [**Security Policy**](SECURITY.md).
 
 ---
 
@@ -552,10 +621,37 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+## ⭐ Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=strivedi4u/splitx&type=Date)](https://star-history.com/#strivedi4u/splitx&Date)
+
+</div>
+
+---
+
+## 💖 Support the Project
+
+If SplitX has helped you, consider supporting:
+
+- ⭐ **Star this repository** — it helps a lot!
+- 🐛 **Report bugs** and **suggest features**
+- 📣 **Share** SplitX with friends and on social media
+- 🤝 **Contribute** code, documentation, or design
+- ☕ **[Sponsor](https://github.com/sponsors/strivedi4u)** the development
+
+---
+
 <div align="center">
 
 **Built with ❤️ by [Shashank Trivedi](https://github.com/strivedi4u)**
 
 *SplitX — Because splitting bills shouldn't split friendships.*
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/strivedi4u?label=Follow&style=social)](https://github.com/strivedi4u)
+[![Twitter Follow](https://img.shields.io/twitter/follow/strivedi4u?style=social)](https://twitter.com/strivedi4u)
 
 </div>
