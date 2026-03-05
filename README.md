@@ -369,7 +369,7 @@ User fills expense form
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/splitx.git
+git clone https://github.com/strivedi4u/splitx.git
 cd splitx
 ```
 
@@ -554,7 +554,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ by Shashank Trivedi**
+**Built with ❤️ by [Shashank Trivedi](https://github.com/strivedi4u)**
 
 *SplitX — Because splitting bills shouldn't split friendships.*
 
